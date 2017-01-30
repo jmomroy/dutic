@@ -1,19 +1,11 @@
 h3,
 h4,
 h5 {
-<<<<<<< HEAD
 	color: #660e24;
 }
 
 a {
 	color: #660e24;
-=======
-	color: #0088cc;
-}
-
-a {
-	color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 a:hover {
@@ -37,20 +29,12 @@ p.drop-caps.secundary:first-child:first-letter {
 }
 
 ul.nav-pills > li.active > a {
-<<<<<<< HEAD
 	background-color: #450C1E;
-=======
-	background-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 ul.nav-pills > li.active > a:hover,
 ul.nav-pills > li.active > a:focus {
-<<<<<<< HEAD
 	background-color: #660E2A;
-=======
-	background-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .sort-source-wrapper .nav > li.active > a {
@@ -108,17 +92,10 @@ body.dark .pagination > .active > span:focus {
 .pagination > .active > a,
 body.dark .pagination > .active > a,
 .owl-theme .owl-controls .owl-nav [class*="owl-"] {
-<<<<<<< HEAD
 	border-color: #660e24 !important;
 	color: #ffffff;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 	background-color: #660e24;
-=======
-	border-color: #0088cc !important;
-	color: #ffffff;
-	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-	background-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 	border-color: #0088cc;
 }
 
@@ -237,20 +214,12 @@ body.dark .pagination > .active > a:focus,
 }
 
 section.highlight {
-<<<<<<< HEAD
 	background-color: #660e24; !important;
-=======
-	background-color: #0088cc !important;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 	border-color: #0077b3 !important;
 }
 
 section.page-top h1 {
-<<<<<<< HEAD
 	border-bottom-color: #0D0D0D;
-=======
-	border-bottom-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 section.toggle label {
@@ -279,11 +248,7 @@ section.page-top.custom-product {
 }
 
 .thumb-info .thumb-info-type {
-<<<<<<< HEAD
 	background-color: #660e24;
-=======
-	background-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .thumb-info .thumb-info-action-icon {
@@ -291,11 +256,7 @@ section.page-top.custom-product {
 }
 
 .thumb-info-social-icons a {
-<<<<<<< HEAD
 	background-color: #660e24;
-=======
-	background-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .thumbnail .zoom {
@@ -307,20 +268,12 @@ section.page-top.custom-product {
 }
 
 .inverted {
-<<<<<<< HEAD
 	background-color: #660e24;
-=======
-	background-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-<<<<<<< HEAD
 	background-color: #080808;
-=======
-	background-color: #0074ad;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .tabs ul.nav-tabs a,
@@ -394,11 +347,7 @@ section.video blockquote i.fa-quote-left {
 #header nav ul.nav-main li > a:hover,
 #header nav ul.nav-main li.dropdown:hover a {
 	color: #FFF;
-<<<<<<< HEAD
 	background-color: #660e24; !important;
-=======
-	background-color: #0088cc !important;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 #header nav ul.nav-main ul.dropdown-menu li:hover > a {
@@ -470,19 +419,11 @@ section.video blockquote i.fa-quote-left {
 }
 
 blockquote.testimonial {
-<<<<<<< HEAD
 	background: #660e24;
 }
 
 .testimonial-arrow-down {
 	border-top-color: #660e24;
-=======
-	background: #0099e6;
-}
-
-.testimonial-arrow-down {
-	border-top-color: #0099e6;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .featured-box-secundary i.icon-featured {
@@ -517,20 +458,12 @@ ul.history li .featured-box .box-content {
 
 .recent-posts .date .month,
 article.post .post-date .month {
-<<<<<<< HEAD
 	background-color: #660e24;
-=======
-	background-color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .recent-posts .date .day,
 article.post .post-date .day {
-<<<<<<< HEAD
 	color: #0B0B0B;
-=======
-	color: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 .slider .tp-bannertimer {
@@ -556,11 +489,7 @@ article.post .post-date .day {
 }
 
 #footer .footer-ribbon {
-<<<<<<< HEAD
 	background: #080808;
-=======
-	background: #0088cc;
->>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 }
 
 #footer .footer-ribbon:before {
