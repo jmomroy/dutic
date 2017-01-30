@@ -185,7 +185,11 @@ blockquote {
 
 /* Paragraphs */
 p {
+<<<<<<< HEAD
 	color: #060606;
+=======
+	color: #777777;
+>>>>>>> 1dcafbe68dcfa3dd63390d6cca40071363d6916d
 	line-height: 24px;
 	margin: 0 0 20px;
 }
